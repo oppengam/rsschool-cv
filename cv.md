@@ -1,8 +1,8 @@
 # Hi, I'm Victor!
 
 ## Contacts
-* Email: oppengam@gmail.com
-* Telegram: [@e_x_p_o](https://t.me/e_x_p_o)
+* Email: oppengam@gmail.com 📧
+* Telegram: [@e_x_p_o](https://t.me/e_x_p_o) ✈️
 
 ## About
 Frontend and web development programmer. Have strong knowledge of computer science (algorithms and data structures) and competitive programming experience.
@@ -12,7 +12,7 @@ Frontend and web development programmer. Have strong knowledge of computer scien
 * C++
 * Python
 * SQL
-* [Linux nerd](https://github.com/oppengam/dotfiles):
+* [Linux nerd](https://github.com/oppengam/dotfiles): 🤓
   * Zsh
   * Tmux
   * Vim
